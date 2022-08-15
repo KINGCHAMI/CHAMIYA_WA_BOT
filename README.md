@@ -30,7 +30,7 @@
 
 1. Click [SCAN](https://replit.com/@KINGCHAMI/KINGCHAMIYA?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/KINGCHAMI/KINGCHAMI_MD)
+2. Click [FORK](https://github.com/KINGCHAMI/CHAMIYA_WA_BOT.git)
 
 2. After That Upload Session.json File
 
@@ -40,6 +40,6 @@
 
 
 ## Owner:
-* [`CHAMIYA_WA_BOT`](https://github.com/KINGCHAMI/KINGCHAMI_MD)
+* [`CHAMIYA_WA_BOT`](https://github.com/KINGCHAMI/CHAMIYA_WA_BOT.git)
 
 
