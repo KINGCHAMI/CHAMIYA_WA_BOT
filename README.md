@@ -1,5 +1,4 @@
 # CHAMIYA_WA_BOT
-This project is still being tested
 <img src="https://i.ibb.co/Wc43gsh/Whats-App-Image-2022-08-11-at-2-19-52-PM.jpg" alt="GIF" width="300" height="270"/>
 <p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://img.shields.io/badge/KING_CHAMI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"/></a>
  <p align="center">
