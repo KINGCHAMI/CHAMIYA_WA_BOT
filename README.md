@@ -47,6 +47,6 @@
 * [`CHAMIYA_WA_BOT`](https://github.com/KINGCHAMI/CHAMIYA_WA_BOT.git)
 
 
-##Thank you
-R/Horahineall sumana viduhala
+## THANK YOU:
+*R/Horahineall sumana viduhala*
 
