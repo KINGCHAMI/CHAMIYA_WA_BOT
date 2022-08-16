@@ -31,7 +31,7 @@
 > [SUPPORT GROUP]()
 
 
-1. [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@KINGCHAMI/KINGCHAMIWABOT-MD-1?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@KINGCHAMI/KINGCHAMIWABOT-MD-1?v=1)
 
 2. Click [FORK](https://github.com/KINGCHAMI/CHAMIYA_WA_BOT.git)
 
